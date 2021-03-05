@@ -83,7 +83,7 @@
 
 其中，后三个链接在安卓也是适用的。
  
-### 3.将参数填到Secrets
+### 3.参数填到Secrets
 
 在`Secrets`中的`Name`和`Value`格式如下：
 
